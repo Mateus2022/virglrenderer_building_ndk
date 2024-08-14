@@ -38,5 +38,5 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: virgl_test_server
-        path: ./build/virgl_test_server
+        path: ./build
     
